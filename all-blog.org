@@ -17,7 +17,7 @@ CLOSED: [2022-12-29 Thu 11:21]
 :END:
 *** headline 1
 **** title
-adaaa
+adaa
 *** headline 2
 a
 *** headline 3
@@ -32,3 +32,4 @@ CLOSED: [2022-12-29 Thu 12:57]
 *** aa
 aaasa中文
 *** bb
+中🀄️
