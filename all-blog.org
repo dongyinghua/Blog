@@ -21,7 +21,7 @@ adaa
 *** headline 2
 a
 *** headline 3
-** DONE second blgit pull --rebase origin masterog
+** DONE second blog
 CLOSED: [2022-12-29 Thu 12:57]
 :PROPERTIES:
 :EXPORT_FILE_NAME: second-blog
@@ -33,3 +33,16 @@ CLOSED: [2022-12-29 Thu 12:57]
 aaasa中文
 *** bb
 中🀄️
+
+** DONE third blog
+CLOSED: [2022-12-29 Thu 16:19]
+:PROPERTIES:
+:EXPORT_FILE_NAME: third blog
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2022-12-29 Thu 16:19]
+:END:
+*** headline 1
+我爱 Emacs
+*** headline 2
+Yes
