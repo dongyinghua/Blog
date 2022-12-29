@@ -7,20 +7,6 @@
 #+STARTUP: logdrawer
 
 * Blog Ideas
-** DONE first blog
-CLOSED: [2022-12-29 Thu 11:21]
-:PROPERTIES:
-:EXPORT_FILE_NAME: first-blog
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2022-12-29 Thu 11:21]
-:END:
-*** headline 1
-**** title
-adaa
-*** headline 2
-a
-*** headline 3
 ** DONE second blog
 CLOSED: [2022-12-29 Thu 12:57]
 :PROPERTIES:
