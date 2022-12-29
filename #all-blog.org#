@@ -1,0 +1,34 @@
+#+HUGO_BASE_DIR: /Users/dragonli/Documents/Blogs/myblog/
+#+HUGO_SECTION: post
+#+HUGO_AUTO_SET_LASTMOD: t
+#+OPTIONS: author:nil
+#+HUGO_CUSTOM_FRONT_MATTER: :author "dragonli"
+#+HUGO_CODE_FENCE: nil
+#+STARTUP: logdrawer
+
+* Blog Ideas
+** DONE first blog
+CLOSED: [2022-12-29 Thu 11:21]
+:PROPERTIES:
+:EXPORT_FILE_NAME: first-blog
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-29 Thu 11:21]
+:END:
+*** headline 1
+**** title
+adaaa
+*** headline 2
+a
+*** headline 3
+** DONE second blgit pull --rebase origin masterog
+CLOSED: [2022-12-29 Thu 12:57]
+:PROPERTIES:
+:EXPORT_FILE_NAME: second-blog
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-29 Thu 12:57]
+:END:
+*** aa
+aaasa中文
+*** bb
